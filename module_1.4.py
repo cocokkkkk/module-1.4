@@ -1,4 +1,5 @@
 my_strint = input('напишите словосочетание: ')
+print(len(my_strint))
 print(my_strint. upper())
 print(my_strint. lower())
 print(my_strint. replace(' ', ''))
