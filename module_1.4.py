@@ -1,0 +1,6 @@
+my_strint = input('напишите словосочетание: ')
+print(my_strint. upper())
+print(my_strint. lower())
+print(my_strint. replace(' ', ''))
+print(my_strint[0])
+print(my_strint[-1])
